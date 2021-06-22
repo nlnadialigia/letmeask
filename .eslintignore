@@ -1,0 +1,14 @@
+#files
+**/*.js
+/src/react-app-env.d.ts
+/src/reportWebVitals.ts
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+
