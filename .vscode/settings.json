@@ -1,10 +1,10 @@
 {
-  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontSize": 16,
   "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "newUntitledFile",
   "editor.tabSize": 2,
-  "editor.fontSize": 14,
-  "editor.lineHeight": 20,
+  "editor.fontSize": 16,
+  "editor.lineHeight": 22,
   "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
   "editor.semanticHighlighting.enabled": false,
@@ -85,7 +85,7 @@
   "material-icon-theme.languages.associations": {
     "dotenv": "tune"
   },
-  "workbench.colorTheme": "Atom One Dark",
+  "workbench.colorTheme": "Dracula",
   "typescript.updateImportsOnFileMove.enabled": "never",
   "cSpell.enableFiletypes": [
     "!asciidoc",
