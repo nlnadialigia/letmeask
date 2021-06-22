@@ -12,3 +12,7 @@
 # production
 /build
 
+#config
+.husky
+.vscode
+
