@@ -21,7 +21,8 @@
     120
   ],
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true
   },
   "files.exclude": {
     "**/.git": true,
@@ -48,6 +49,8 @@
   "typescript.tsserver.log": "off",
   "javascript.suggest.autoImports": true,
   "typescript.suggest.autoImports": true,
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
   "typescript.format.semicolons": "insert",
   "material-icon-theme.activeIconPack": "nest",
   "screencastMode.onlyKeyboardShortcuts": true,
