@@ -119,7 +119,7 @@
   "workbench.productIconTheme": "fluent-icons",
   "terminal.integrated.showExitAlert": false,
   "splitHTMLAttributes.closingBracketOnNewLine": true,
-  "window.zoomLevel": 0.5,
+  "window.zoomLevel": 0,
   "cSpell.words": [
     "Letmeask",
     "readonly"
