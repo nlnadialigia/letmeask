@@ -28,10 +28,10 @@ export function Home() {
       <main>
         <div className="main-content">
           <img src={logoImg} alt="Letmeask" />
-          <button onClick={handleCreateRoom} className="create-room">
+          <Button onClick={handleCreateRoom} className="create-room">
             <img src={googleIconImg} alt="Logo Google" />
             Crie sua sala com Google
-          </button>
+          </Button>
           <div className="separator">
             Ou entre um uma sala
           </div>

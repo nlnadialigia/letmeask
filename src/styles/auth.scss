@@ -12,7 +12,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-
+    
     padding: 120px 80px;
 
     img {
@@ -57,20 +57,19 @@
 
     h2 {
       font-size: 24px;
-      margin: 10px 0 24px;
+      margin: 64px 0 24px;
       font-family: 'Poppins', sans-serif;
     }
 
     form {
       input {
-        height: 50px;
+        height: 40px;
         border-radius: 8px;
-        padding: 0 16px;
         background: #FFF;
         border: 1px solid #a8a8b3;
       }
 
-      button {
+      button { 
         margin-top: 16px;
       }
 
@@ -86,7 +85,6 @@
 
       a {
         color: #e559f9;
-        margin-left: 5px;
       }
     }
   }
@@ -103,6 +101,7 @@
     justify-content: center;
     align-items: center;
 
+    cursor: pointer;
     border: 0;
 
     transition: filter 0.2s;
