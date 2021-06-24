@@ -8,7 +8,8 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nlnadialigia/letmeask?color=835afd&style=plastic">
 
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/nlnadialigia/letmeask?color=835afd&style=plastic">
-  
+
+
   <a href="./LICENSE.md">
   <img alt="GitHub" src="https://img.shields.io/github/license/nlnadialigia/letmeask?color=835afd&style=plastic">
   </a>
@@ -22,6 +23,7 @@
 - [Etapas](#-📁-etapas)
   - [Dia 1 - Configuração de ambiente](#-📌-Dia-1-Configuração-de-ambiente)
   - [Dia 2 - Autenticação](#-📌-Dia-2-Autenticação)
+- [🛠 Tecnologias](#-🛠-Tecnologias)
 - [Como rodar o projeto](#-⚙️-Como-rodar-o-projeto)
 - [Autora](#-👩‍💼-autora)
 
@@ -31,10 +33,12 @@
 
 Let me Ask é uma plataforma para criar salas de perguntas e respostas (Q&A) desenvolvida na edição Together da Next Level Week.
 
-## 📌 Template no Figma:
-- [Letmeask Web](https://www.figma.com/file/KGnYqR4VcjGOXeBYcPDwXq/Letmeask)
+<a href="https://www.figma.com/file/KGnYqR4VcjGOXeBYcPDwXq/Letmeask?node-id=0%3A1">
+<img alt="Layout on Figma" src="https://img.shields.io/badge/Acessar%20Layout-Figma-835afd">
+</a>
 
-<br>
+
+<br><br>
 
 # 📁 Etapas
 
@@ -42,9 +46,9 @@ Let me Ask é uma plataforma para criar salas de perguntas e respostas (Q&A) des
 
 - Configuração do ambiente de desenvolvimento
 
-- Criação do projeto [React](https://pt-br.reactjs.org/) com [Typescript](https://www.typescriptlang.org/)
+- Criação do projeto `React` com `Typescript`
 
-- Conexão do projeto com [Firebase](https://firebase.google.com/)
+- Conexão do projeto com `Firebase`
 
 - Configuração das variáveis ambientes
 
@@ -81,6 +85,16 @@ Let me Ask é uma plataforma para criar salas de perguntas e respostas (Q&A) des
 
 <br>
 
+# 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Firebase](https://firebase.google.com/)
+
+<br>
 
 # ⚙️ Como rodar o projeto
 
