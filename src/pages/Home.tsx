@@ -32,13 +32,12 @@ export function Home() {
 
     console.log(roomRef);
 
-    if (roomRef.exists()) {
-      history.push(`/rooms/${roomCode}`);
-      return;
-    } else {
+    if (!roomRef.exists()) {
       alert('Sala não existe');
       return;
     };
+
+    history.push(`/rooms/${roomCode}`);
   }
 
   return (
