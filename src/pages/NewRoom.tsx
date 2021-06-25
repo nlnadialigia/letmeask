@@ -17,11 +17,10 @@ export function NewRoom() {
     event.preventDefault();
 
     if (newRoom.trim() === '') {
-      // eslint-disable-next-line no-useless-return
       return;
     }
 
-    const roomRef = database.ref('room');
+    const roomRef = database.ref('rooms');
     const firebaseRoom = await roomRef.push({
       title: newRoom,
       author: user?.id
