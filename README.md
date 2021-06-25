@@ -23,7 +23,7 @@
 - [Etapas](#-📁-etapas)
   - [Dia 1 - Configuração de ambiente](#-📌-Dia-1-Configuração-de-ambiente)
   - [Dia 2 - Autenticação](#-📌-Dia-2-Autenticação)
-- [🛠 Tecnologias](#-🛠-Tecnologias)
+- [Tecnologias](#-🛠-Tecnologias)
 - [Como rodar o projeto](#-⚙️-Como-rodar-o-projeto)
 - [Autora](#-👩‍💼-autora)
 
@@ -33,9 +33,17 @@
 
 Let me Ask é uma plataforma para criar salas de perguntas e respostas (Q&A) desenvolvida na edição Together da Next Level Week.
 
+<br>
+
 <a href="https://www.figma.com/file/KGnYqR4VcjGOXeBYcPDwXq/Letmeask?node-id=0%3A1">
 <img alt="Layout on Figma" src="https://img.shields.io/badge/Acessar%20Layout-Figma-835afd">
 </a>
+
+<br>
+
+<img src=".github/figma-admin.png" alt="Layout admin" />
+<br>
+<img src=".github/figma-participantes.png" alt="Layout participantes" />
 
 
 <br><br>
