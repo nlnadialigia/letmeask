@@ -23,6 +23,7 @@
 - [Etapas](#-📁-etapas)
   - [Dia 1 - Configuração de ambiente](#-📌-Dia-1-Configuração-de-ambiente)
   - [Dia 2 - Autenticação](#-📌-Dia-2-Autenticação)
+  - [Dia 3 - Fluxo de salas](#-📌-Dia-2-Fluxo-de-salas)
 - [Tecnologias](#-🛠-Tecnologias)
 - [Como rodar o projeto](#-⚙️-Como-rodar-o-projeto)
 - [Autora](#-👩‍💼-autora)
@@ -80,13 +81,27 @@ Let me Ask é uma plataforma para criar salas de perguntas e respostas (Q&A) des
 
 <br>
 
-## 📌 Demo:
+<!-- ## 📌 Demo:
 <img src=".github/letmeask-1.gif" width=400 alt="Letmeask Demonstration" />
 
-<br>
+<br> -->
 
 
-<!-- ## 📌 Dia 3 -->
+## 📌 Dia 3 - Fluxo de salas
+
+- Criação de sala 
+
+- Entrado na sala
+
+- Estipulando autorização ⇒ FireBase
+
+- Página de sala
+
+- Criando nova pergunta 
+
+- Consumindo perguntas do Firebase 
+
+- "Ouvindo" novas perguntas
 
 
 <!-- ## 📌 Dia 4 -->
