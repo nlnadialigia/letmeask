@@ -103,8 +103,27 @@ Let me Ask é uma plataforma para criar salas de perguntas e respostas (Q&A) des
 
 - "Ouvindo" novas perguntas
 
+<br>
 
-<!-- ## 📌 Dia 4 -->
+## 📌 Dia 4
+
+- Estrutura das perguntas (HTML e CSS)
+
+- Criando hook `userRoom`
+
+- Página de sala (admin)
+
+- Funcionalidade de like
+
+- Componente de modal
+
+- Remoção de pergunta
+
+- Encerrar a sala
+
+<br>
+
+<!-- ## 📌 Dia 5 -->
 
 <br>
 
