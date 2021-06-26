@@ -12,6 +12,7 @@ import '../styles/room.scss';
 type RoomParams = {
   id: string
 };
+
 export function Room() {
   const { user } = useAuth();
   const params = useParams<RoomParams>();
