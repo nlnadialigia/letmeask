@@ -37,6 +37,11 @@ export function Home() {
       return;
     };
 
+    if (roomRef.val().endedAt) {
+      alert('Sala fechada!');
+      return;
+    };
+
     history.push(`/rooms/${roomCode}`);
   }
 
