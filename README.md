@@ -19,16 +19,16 @@
 
 # Índice
 
-- [Sobre](#-ℹ️-sobre)
-- [Etapas](#-📁-etapas)
-  - [Dia 1 - Configuração de ambiente](#-📌-Dia-1-Configuração-de-ambiente)
-  - [Dia 2 - Autenticação](#-📌-Dia-2-Autenticação)
-  - [Dia 3 - Fluxo de salas](#-📌-Dia-2-Fluxo-de-salas)
-  - [Dia 4 - Interação com salas](📌-Dia-4-Interação-com-salas)
-  - [Dia 5 - Controles do admin](📌-Dia-5-Controles-do-admin)
-- [Tecnologias](#-🛠-Tecnologias)
-- [Como rodar o projeto](#-⚙️-Como-rodar-o-projeto)
-- [Autora](#-👩‍💼-autora)
+- [Sobre](#ℹ️-sobre)
+- [Etapas](#📁-etapas)
+  - [Dia 1 - Configuração de ambiente](#📌-dia-1---configuração-de-ambiente)
+  - [Dia 2 - Autenticação](#📌-dia-2---autenticação)
+  - [Dia 3 - Fluxo de salas](#📌-dia-3---fluxo-de-salas)
+  - [Dia 4 - Interação com salas](#📌-dia-4---interação-com-salas)
+  - [Dia 5 - Controles do admin](#📌-dia-5---controles-do-admin)
+- [Tecnologias](#🛠-tecnologias)
+- [Como rodar o projeto](#⚙️-como-rodar-o-projeto)
+- [Autora](#👩‍💼-autora)
 
 <br>
 
@@ -62,6 +62,7 @@ Let me Ask é uma plataforma para criar salas de perguntas e respostas (Q&A) des
 - Conexão do projeto com `Firebase`
 
 - Configuração das variáveis ambientes
+
 
 <br>
 
@@ -169,7 +170,7 @@ $ yarn start
 
 # 👩‍💼 Autora
 <img src=".github/picture.png" width="100px;" alt="Picture"/>
-<p><b>Nádia Ligia, budding back-end developer.</b></p>
+<p><b>Nádia Ligia, desenvolvedora em construção.</b></p>
 <a href="https://www.linkedin.com/in/nlnadialigia/">
   <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin -835afd?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nlnadialigia/" />
 </a>&nbsp;
