@@ -24,6 +24,8 @@
   - [Dia 1 - Configuração de ambiente](#-📌-Dia-1-Configuração-de-ambiente)
   - [Dia 2 - Autenticação](#-📌-Dia-2-Autenticação)
   - [Dia 3 - Fluxo de salas](#-📌-Dia-2-Fluxo-de-salas)
+  - [Dia 4 - Interação com salas](📌-Dia-4-Interação-com-salas)
+  - [Dia 5 - Controles do admin](📌-Dia-5-Controles-do-admin)
 - [Tecnologias](#-🛠-Tecnologias)
 - [Como rodar o projeto](#-⚙️-Como-rodar-o-projeto)
 - [Autora](#-👩‍💼-autora)
@@ -105,7 +107,7 @@ Let me Ask é uma plataforma para criar salas de perguntas e respostas (Q&A) des
 
 <br>
 
-## 📌 Dia 4
+## 📌 Dia 4 - Interação com salas
 
 - Estrutura das perguntas (HTML e CSS)
 
@@ -123,7 +125,7 @@ Let me Ask é uma plataforma para criar salas de perguntas e respostas (Q&A) des
 
 <br>
 
-## 📌 Dia 5
+## 📌 Dia 5 - Controles do admin
 
 - HTML e CSS de destaque e respondida
 
