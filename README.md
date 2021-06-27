@@ -123,7 +123,15 @@ Let me Ask é uma plataforma para criar salas de perguntas e respostas (Q&A) des
 
 <br>
 
-<!-- ## 📌 Dia 5 -->
+## 📌 Dia 5
+
+- HTML e CSS de destaque e respondida
+
+- Dar destaque na pergunta
+
+- Marcar como respondida
+
+- Hospedando o projeto
 
 <br>
 
